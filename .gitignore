@@ -1,0 +1,20 @@
+# data and weights
+VisDrone/
+VisDrone2019-*/
+checkpoints/*
+!checkpoints/.gitkeep
+*.pt
+*.pth
+runs/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# os / editor
+.DS_Store
+.vscode/
+.idea/
